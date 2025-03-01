@@ -21,7 +21,7 @@
 ## Installation
 
 1. Clone the repository: 
-- git clone https://github.com/Matt533/MovieVerseApp
+- git clone https://github.com/Matt533/MovieVerse-App
 
 2. Navigate to the project directory:
 - cd movieApp
