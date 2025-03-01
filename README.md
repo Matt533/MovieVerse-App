@@ -35,6 +35,7 @@
 - npm run dev
 - ctrl + click -> http://localhost:3000
 
+- Application is deployed on netlify. Link is in the description!
 -- Note --
 To use the TMDB API, you will need to register and log in.
 After that you need to get your own API_KEY. Afer getting your api_key put it into the api.js file where it says "your_api_key";
